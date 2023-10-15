@@ -1,0 +1,20 @@
+{
+  "name": "noop-sca-testing1",
+  "version": "1.0.0",
+  "description": "NOOP package for SCA testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosheco/noop-sca-testing1-ts.git"
+  },
+  "author": "Moshe Cohen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mosheco/noop-sca-testing1-ts/issues"
+  },
+  "homepage": "https://github.com/mosheco/noop-sca-testing1-ts#readme"
+}
+
